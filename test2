@@ -6,7 +6,17 @@ edo-api-artisan:
 
 marketplaces-api-artisan:
 	${docker_compose_marketplaces_api} exec api php artisan $(cmd)
-
+123
+123
+123123
+123
+123
+123
+1
+231
+23
+1231
+32
 print-api-artisan:
 	${docker_compose_print_api} exec api php artisan $(cmd)
 
