@@ -4,6 +4,15 @@ catalog-api-artisan:
 marking-artisan:
 	${docker_compose_marking} exec api php artisan $(cmd)
 
+123
+123555
+12355656
+13542423563
+2
+534563
+2354
+254
+2345
 marking-artisan-companyseeder:
 	${docker_compose_marking} exec api php artisan db:seed --class=CompanySeeder
 	
